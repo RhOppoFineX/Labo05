@@ -11,7 +11,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 
 class FirstFragment : Fragment() {
-    // TODO: Rename and change types of parameters
+    // TODO: Rename and change types of parametersl
     private lateinit var btnActionSend: FloatingActionButton
     private lateinit var starwars_cardaction: CardView
 
