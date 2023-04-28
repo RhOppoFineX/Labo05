@@ -33,7 +33,7 @@ class FirstFragment : Fragment() {
     }
 
     private fun bind(){
-        btnActionSend = view?.findViewById(R.id.buttton_first_fragment) as Button
+        //btnActionSend = view?.findViewById(R.id.buttton_first_fragment) as Button
     }
 
 }
