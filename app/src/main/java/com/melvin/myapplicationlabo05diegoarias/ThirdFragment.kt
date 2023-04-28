@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 
 
-class SecondFragment : Fragment() {
+class ThirdFragment : Fragment() {
     // TODO: Rename and change types of parameters
 
     override fun onCreateView(
@@ -15,7 +15,7 @@ class SecondFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_second, container, false)
+        return inflater.inflate(R.layout.fragment_third, container, false)
     }
 
 }

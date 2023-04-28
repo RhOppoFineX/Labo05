@@ -2,10 +2,11 @@
     <string name="app_name">My ApplicationLabo05DiegoArias</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="starwars_tittle">Star Wars Episodio 2: La venganza de los Sith \n 9.8</string>
+    <string name="starwars_tittle">Star Wars Episodio 2: La venganza de los Sith \n</string>
     <string name="harrypotter_tittle">"@string/harrypotter_tittle"</string>
     <string name="starwars_tittlefrag">"@string/harrypotter_tittle"</string>
     <string name="sfiction_genre">"@string/harrypotter_tittle"</string>
     <string name="starwars_cal">"@string/harrypotter_tittle"</string>
+    <string name="starwars_description"> La pelicula se centra en el personaje de Anakin Skywalk...</string>
 
 </resources>
